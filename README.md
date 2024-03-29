@@ -2,7 +2,7 @@ Keylogger
 
 Detailed Description:
 
-The keylogger script provided here serves the purpose of silently capturing keystrokes made on the system it's installed on. It operates by intercepting keyboard input and logging it into a text file while also sending the captured keystrokes to a local http server. The server runs on the localhost IP address and utilizes port 80 for communication. (I need help because I am unable to connect to the HTTP server with other PCs on the same network.
+The keylogger script provided here serves the purpose of silently capturing keystrokes made on the system it's installed on. It operates by intercepting keyboard input and logging it into a text file while also sending the captured keystrokes to a local http server. The server runs on the localhost IP address and utilizes port 80 for communication. (I need help because I am unable to connect to the HTTP server with other PCs on the same network. (whereiam.txt is for local_ip value)
 
 Usage:
 
