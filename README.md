@@ -31,7 +31,7 @@ If you encounter issues accessing the local http server from other devices on th
 You need to configure the firewall to allow incoming connections to the server port (port 80) to enable access from other devices.
 
 
-5)Contributing:
+5) Contributing:
 
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on GitHub.
 
